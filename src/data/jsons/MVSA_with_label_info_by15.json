@@ -1,0 +1,5 @@
+{
+  "img_region_dir": "../../data/MVSA_Multiple/photo_region",
+  "data_set": "predict_on_mvsa_by15/2023-08-21-17-16-17/result.json",
+  "img_clip_dir": "../../data/MVSA_Multiple/clip_feature"
+}
